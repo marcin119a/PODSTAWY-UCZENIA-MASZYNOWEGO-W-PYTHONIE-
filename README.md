@@ -1,3 +1,9 @@
+Link do 1 zajęć:
+
+* https://colab.research.google.com/drive/1zOnRZfEWfA7JXe7K_H7Wfc57dNd91Eop?usp=sharing
+
+
+
 # PODSTAWY-UCZENIA-MASZYNOWEGO-W-PYTHONIE-
 
 Opis programu zajęć: 
