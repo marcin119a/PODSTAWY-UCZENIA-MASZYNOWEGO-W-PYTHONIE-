@@ -1,7 +1,10 @@
 Link do 1 zajęć:
 
 * https://colab.research.google.com/drive/1zOnRZfEWfA7JXe7K_H7Wfc57dNd91Eop?usp=sharing
+* https://colab.research.google.com/drive/14ka-dj8HdD1hCq8unMMg5r020zS_I1GT?usp=sharing
 
+Formularz na kod:
+* 
 
 
 # PODSTAWY-UCZENIA-MASZYNOWEGO-W-PYTHONIE-
