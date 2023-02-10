@@ -28,6 +28,26 @@ df = pd.read_csv('https://raw.githubusercontent.com/datasciencedojo/datasets/mas
 9. Ile osób było pełnoletnich, narysuj dla ich wieku histogram? 
 10. Użyj metody .describe(), ile lat ma najstarsza i najmłodsza osoba na Titanicu?
 
+### Zadanie 3
+
+I'm interested in the age and sex of the Titanic passengers.
+
+I'm interested in the age of the Titanic passengers.
+
+I'm interested in the age and sex of the Titanic passengers.
+
+I'm interested in the passengers older than 35 years.
+
+I'm interested in the Titanic passengers from cabin class 2 and 3.
+
+I'm interested in rows 10 till 25 and columns 3 to 5.
+
+What is the average age of the Titanic passengers?
+
+What is the median age and ticket fare price of the Titanic passengers?
+
+What is the number of passengers in each of the cabin classes?
+
 
 Formularz na kod:
 * https://forms.gle/x2ZVJ6CcK9aUUnHi8
