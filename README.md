@@ -4,7 +4,8 @@ Link do 1 zajęć:
 
 
 Link do 2 zajęć: 
-* https://colab.research.google.com/drive/14ka-dj8HdD1hCq8unMMg5r020zS_I1GT?usp=sharing
+* https://colab.research.google.com/drive/1EZoolvTMVJ0Dw_ZT6hmvIH9Grle6_1s_?usp=sharing
+
 
 ```python
 import pandas as pd
