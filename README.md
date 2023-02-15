@@ -7,7 +7,9 @@ Link do 2 zajęć:
 * https://colab.research.google.com/drive/1EZoolvTMVJ0Dw_ZT6hmvIH9Grle6_1s_?usp=sharing
 
 https://docs.google.com/presentation/d/1lDi6eGPPslMYMDY1LhEO4sFWF3FgmR65vUI0Rk_q560/edit?usp=sharing
+Rozwiązania: 
 
+https://colab.research.google.com/drive/1peu6Q5ytvFdLqyrk5pRkuNp5pytqxOom?usp=sharing
 
 ```python
 import pandas as pd
