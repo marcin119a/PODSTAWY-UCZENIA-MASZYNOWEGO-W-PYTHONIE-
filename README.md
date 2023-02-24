@@ -12,12 +12,17 @@ Rozwiązania:
 https://colab.research.google.com/drive/1peu6Q5ytvFdLqyrk5pRkuNp5pytqxOom?usp=sharing
 
 
-Link do zajęć: 
+Link do 3 zajęć: 
 
 https://colab.research.google.com/drive/1peu6Q5ytvFdLqyrk5pRkuNp5pytqxOom?usp=sharing
 
 Prezentacja: 
 * https://docs.google.com/presentation/d/1D_nm8TiLwXyeo33_GxzV8jsLFZrUY5Ki2B6dQCovLTY/edit?usp=sharing
+
+Link do 4 zajęć:
+
+* https://colab.research.google.com/drive/1MYchZnG7qOTU1T-DgKLDSzKHS5DVNtDI?usp=sharing
+
 
 Formularz na kod:
 * https://forms.gle/x2ZVJ6CcK9aUUnHi8
