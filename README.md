@@ -27,6 +27,10 @@ Link do 4 zajęć:
 Formularz na kod:
 * https://forms.gle/x2ZVJ6CcK9aUUnHi8
 
+Link do 5 zajęć:
+
+* https://colab.research.google.com/drive/1g8OIZfSdp0BgErYtoWYgtFHY-9Z-te2B?usp=sharing
+
 
 # PODSTAWY-UCZENIA-MASZYNOWEGO-W-PYTHONIE-
 
