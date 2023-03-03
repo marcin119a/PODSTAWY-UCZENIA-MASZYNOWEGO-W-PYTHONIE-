@@ -31,6 +31,8 @@ Link do 5 zajęć:
 
 * https://colab.research.google.com/drive/1g8OIZfSdp0BgErYtoWYgtFHY-9Z-te2B?usp=sharing
 
+Link do prezentacji 5 zajęcia: 
+https://docs.google.com/presentation/d/15Z1aykkZIn7G-5juQnU4LSqm6y0CUkxuAXgdLLhrz7A/edit?usp=sharing
 
 # PODSTAWY-UCZENIA-MASZYNOWEGO-W-PYTHONIE-
 
