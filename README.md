@@ -36,6 +36,12 @@ https://docs.google.com/presentation/d/15Z1aykkZIn7G-5juQnU4LSqm6y0CUkxuAXgdLLhr
 
 # PODSTAWY-UCZENIA-MASZYNOWEGO-W-PYTHONIE-
 
+
+# Link do zadań z zajęć 6:
+
+https://colab.research.google.com/drive/1aHctSfkz9LvzHK8vZrbLQKlqS_M0qH5Q?usp=sharing
+
+
 Opis programu zajęć: 
 
 * Wprowadzenie do Pythona środowiska google colab i podstawowe informacje o wizualizacji danych.
