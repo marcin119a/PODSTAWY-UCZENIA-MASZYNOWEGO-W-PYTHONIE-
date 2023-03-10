@@ -37,9 +37,13 @@ https://docs.google.com/presentation/d/15Z1aykkZIn7G-5juQnU4LSqm6y0CUkxuAXgdLLhr
 # PODSTAWY-UCZENIA-MASZYNOWEGO-W-PYTHONIE-
 
 
-# Link do zadań z zajęć 6:
+# Link do zajęć 6:
 
-https://colab.research.google.com/drive/1aHctSfkz9LvzHK8vZrbLQKlqS_M0qH5Q?usp=sharing
+Zadania: 
+* https://colab.research.google.com/drive/1aHctSfkz9LvzHK8vZrbLQKlqS_M0qH5Q?usp=sharing
+
+Prezentacja
+* https://docs.google.com/presentation/d/1D_nm8TiLwXyeo33_GxzV8jsLFZrUY5Ki2B6dQCovLTY/edit?usp=sharing
 
 
 Opis programu zajęć: 
